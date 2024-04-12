@@ -60,7 +60,7 @@ Moving forward, several enhancements and features are planned for Manga Finder:
 
 Manga Finder represents a journey of learning, problem-solving, and creativity in web application development. By addressing challenges, making strategic design choices, and incorporating user feedback, the project evolved into a functional and promising tool for manga enthusiasts. The README.md provides a comprehensive overview of the project's structure, functionalities, design decisions, challenges faced, and future plans, showcasing the dedication and effort put into creating a valuable resource for manga lovers.
 
-##Acknowledgement
+## Acknowledgement
 
 I would like to thank David J Malan and the staff at harvard for creating this course and meticulously explaining every little concept with such care. Moreover, I would like to thank the CS50 community for help anytime I needed. The most important figure I would like to thank is my brother for putting up with my relentless questions. 
 
