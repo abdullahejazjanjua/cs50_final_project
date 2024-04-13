@@ -3,7 +3,9 @@
   <a href="https://www.youtube.com/watch?v=1FKR5jviN2E">
     <img src="https://img.youtube.com/vi/1FKR5jviN2E/0.jpg" alt="Video Thumbnail">
   </a>
+  <h5 align="center">
   Video Link
+    </h5>
 </p>
 
 ## Project Overview
