@@ -1,0 +1,10 @@
+.card-index {
+    transition: all 0.3s;
+    position: relative;
+    z-index: 1;
+}
+
+.card-index:hover {
+    transform: scale(1.15);
+    z-index: 2;
+}

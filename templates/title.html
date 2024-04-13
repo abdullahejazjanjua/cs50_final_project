@@ -1,0 +1,14 @@
+{% extends "layout.html" %}
+
+{% block main %}
+
+    <form action="/title" method="POST" class="my-3">
+        <div >
+            <input  name="title"  placeholder="Title" autocomplete="off" autofocus class="form-control ">
+        </div>
+        <div class="search mt-3">
+            <button class="btn btn-primary" type="submit">Search</button>
+        </div>
+    </form>
+
+{% endblock %}
