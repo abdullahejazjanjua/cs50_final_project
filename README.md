@@ -1,7 +1,9 @@
 # Manga Finder
 
 <div style="text-align:center;">
-  [![Video Thumbnail](https://img.youtube.com/vi/1FKR5jviN2E/0.jpg)](https://www.youtube.com/watch?v=1FKR5jviN2E)
+  <a href="https://www.youtube.com/watch?v=1FKR5jviN2E">
+    <img src="https://img.youtube.com/vi/1FKR5jviN2E/0.jpg" alt="Video Thumbnail">
+  </a>
 </div>
 
 
