@@ -1,6 +1,6 @@
 # Manga Finder
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1FKR5jviN2E?si=s79AunyW46oJRXUN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![Video Thumbnail](https://img.youtube.com/vi/1FKR5jviN2E/0.jpg)](https://www.youtube.com/watch?v=1FKR5jviN2E)
 
 
 ## Project Overview
