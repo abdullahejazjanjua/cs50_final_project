@@ -1,11 +1,10 @@
 # Manga Finder
 
-<center>
-
-[![Video Thumbnail](https://img.youtube.com/vi/1FKR5jviN2E/0.jpg)](https://www.youtube.com/watch?v=1FKR5jviN2E)
-
-</center>
-
+<div style="text-align:center;">
+  <a href="https://www.youtube.com/watch?v=1FKR5jviN2E">
+    <img src="https://img.youtube.com/vi/1FKR5jviN2E/0.jpg" alt="Video Thumbnail">
+  </a>
+</div>
 
 ## Project Overview
 
