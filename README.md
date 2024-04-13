@@ -1,5 +1,8 @@
 # Manga Finder
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1FKR5jviN2E?si=s79AunyW46oJRXUN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 ## Project Overview
 
 Manga Finder is a web application designed to simplify the process of finding manga titles based on user preferences. The idea stemmed from a personal need to easily discover and explore new manga series. Leveraging concepts learned from the CS50 course, I embarked on creating a user-friendly platform that would allow manga enthusiasts to search for mangas by either specific names or if not sure what to read they can visit the top mangas section. This project utilizes flask for backend and bootstrap to create an imersive user interface.
